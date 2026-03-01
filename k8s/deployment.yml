@@ -16,4 +16,5 @@ spec:
         - name: devops-app
           image: aniketdk/devops-app:latest
           ports:
-            - containerPort: 3000
+            - containerPort: 8080
+
